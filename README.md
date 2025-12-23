@@ -1,7 +1,5 @@
 # NLP Review Sentiment Classification
 
-🏆 **1st Place – Public Leaderboard**  
-🥉 **3rd Place – Private Leaderboard**  
 *Kaggle Neural Networks Competition – Faculty of Computer and Information Sciences, Ain Shams University*
 
 ---
